@@ -5,6 +5,6 @@ The compiled data is laid out as follows: 5 Excel files that contain the four mo
 2. RawData60malt.xlsx contains 30 scenarios with infrastructure configurations with a Zapotillo dam with a height of 60 m.
 3. RawData80malt.xlsx contains 30 scenarios with infrastructure configurations with a Zapotillo dam with a height of 80 m.
 4. RawData105malt.xlsx contains 30 scenarios with infrastructure configurations with a Zapotillo dam with a height of 105 m.
-5. ZapotilloDams.xlsx contains 3 scenarios with the three different Zapotillo dam configurations without any alternative.
+5. RawDataZapotillo.xlsx contains 3 scenarios with the three different Zapotillo dam configurations without any alternative.
 
 Each file contains the description of each scenario and its results in terms of Coverage (%), Environmental flows deficit (m3/s), and Change in Groundwater storage (m3/s)
