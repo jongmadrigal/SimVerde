@@ -8,3 +8,5 @@ The compiled data is laid out as follows: 5 Excel files that contain the four mo
 5. RawDataZapotillo.xlsx contains 3 scenarios with the three different Zapotillo dam configurations without any alternative.
 
 Each file contains the description of each scenario and its results in terms of Coverage (%), Environmental flows deficit (m3/s), and Change in Groundwater storage (m3/s)
+
+*It is worth noting that these results may slighthly varied if replicated on WEAP, since newer versions might tweak the built-in calculations solver.
